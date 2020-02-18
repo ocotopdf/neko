@@ -11,11 +11,6 @@
   * Ignore user (chat and emotes)
   * Persistent settings
 
-## Why n.eko?
-I like cats 🐱 (`Neko` is the Japanese word for cat), I'm a weeb/nerd
-
-***But why the cat butt?*** Because cats are *assholes*, but you love them anyways.
-
 ## Documentation
 
 * [Getting Started](https://n.eko.moe/#/getting-started)
